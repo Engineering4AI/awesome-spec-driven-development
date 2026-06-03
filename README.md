@@ -1,5 +1,7 @@
 # Awesome Spec-Driven Development (SDD) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img width="800" alt="ChatGPT Image Jun 3, 2026, 06_23_17 PM" src="https://github.com/user-attachments/assets/e3e5149d-18cf-4cea-89b3-8bb804d534d7" />
+
 > A curated list of awesome tools for Spec-Driven Development (SDD) - the practice of writing specifications first to guide development, testing, and documentation.
 
 [Spec-Driven Development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
