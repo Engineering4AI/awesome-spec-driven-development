@@ -34,6 +34,7 @@
 
 - [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
 
+- [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
 ## Development Frameworks
