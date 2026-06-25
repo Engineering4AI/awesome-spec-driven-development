@@ -20,8 +20,6 @@
 
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
-- [get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/github/stars/gsd-build/get-shit-done.svg?cacheSeconds=86400) - Lightweight and powerful system for meta-prompting, context engineering, and spec-driven development.
-
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
 
 - [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg?cacheSeconds=86400) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
