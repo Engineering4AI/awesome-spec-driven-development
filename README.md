@@ -40,6 +40,8 @@
 
 ## Development Frameworks
 
+- [agent-skills](https://github.com/addyosmani/agent-skills) ![](https://img.shields.io/github/stars/addyosmani/agent-skills.svg?cacheSeconds=86400) - Production-grade skill pack for AI coding agents with explicit spec-to-plan-to-build workflows and quality gates.
+
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg?cacheSeconds=86400) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg?cacheSeconds=86400) - Collaborative spec-driven development tool for writing specifications alongside code.
@@ -51,6 +53,10 @@
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
+
+- [skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills.svg?cacheSeconds=86400) - Composable engineering skills including PRD/spec, planning, TDD, and architecture workflows for AI-assisted development.
+
+- [superpowers](https://github.com/obra/superpowers) ![](https://img.shields.io/github/stars/obra/superpowers.svg?cacheSeconds=86400) - Full software development methodology for coding agents centered on spec approval, planning, and subagent execution.
 
 ## IDE & Editor Integrations
 
@@ -65,6 +71,8 @@
 ## Workflow Management
 
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
+
+- [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
 
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg?cacheSeconds=86400) - Kanban board system for managing spec-driven development workflows.
 
