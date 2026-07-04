@@ -50,6 +50,8 @@
 
 - [colign](https://github.com/colign/colign) ![](https://img.shields.io/github/stars/colign/colign.svg?cacheSeconds=86400) - Collaborative spec-driven development platform for teams to discuss, write, review, and implement specs with AI.
 
+- [Cosmosmith](https://github.com/devnomad-byte/cosmosmith) ![](https://img.shields.io/github/stars/devnomad-byte/cosmosmith.svg?cacheSeconds=86400) - Multi-agent workflow initializer that generates AGENTS.md, task.md, proposal/design templates, and adapters for Claude Code, Cursor, Copilot, OpenCode, and Trae.
+
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
