@@ -76,6 +76,8 @@
 
 ## Workflow Management
 
+- [Plans](https://github.com/yrangana/Plans) ![](https://img.shields.io/github/stars/yrangana/Plans.svg?cacheSeconds=86400) - Markdown convention for tracking multi-feature work with per-feature specs, a status front door, and a static roadmap dashboard.
+
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
 
 - [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
