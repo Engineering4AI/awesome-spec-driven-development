@@ -64,6 +64,8 @@
 
 - [superpowers](https://github.com/obra/superpowers) ![](https://img.shields.io/github/stars/obra/superpowers.svg?cacheSeconds=86400) - Full software development methodology for coding agents centered on spec approval, planning, and subagent execution.
 
+- [THROUGHLINE](https://github.com/hellomyoh/throughline) ![](https://img.shields.io/github/stars/hellomyoh/throughline.svg?cacheSeconds=86400) - Markdown and git framework where personas debate each spec before code, with an append-only single source of truth that carries decisions across sessions.
+
 ## IDE & Editor Integrations
 
 - [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg?cacheSeconds=86400) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
