@@ -80,6 +80,8 @@
 
 - [Plans](https://github.com/yrangana/Plans) ![](https://img.shields.io/github/stars/yrangana/Plans.svg?cacheSeconds=86400) - Markdown convention for tracking multi-feature work with per-feature specs, a status front door, and a static roadmap dashboard.
 
+- [RailWarden](https://github.com/advaith-1212/railwarden) ![](https://img.shields.io/github/stars/advaith-1212/railwarden.svg?cacheSeconds=86400) - Deterministic execution and integration control plane for approved multi-agent work: turns plans into dependency-aware isolated work packages, records validation evidence, and gates integration.
+
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
 
 - [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
