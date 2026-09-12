@@ -42,6 +42,8 @@
 
 - [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
 
+- [Squelette](https://github.com/JyMinet/squelette) - Repository-level governance for coding agents: work items declare the file paths they may touch, a pre-commit gate refuses anything outside them, human decisions are recorded in the repo, and a task cannot close without evidence verified against its artifacts.
+
 - [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ![](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template.svg?cacheSeconds=86400) - Staged prompts and a CLI that produce a PRD, a technical design, and AGENTS.md before implementation begins.
 
 ## Development Frameworks
