@@ -32,6 +32,8 @@
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg?cacheSeconds=86400) - Aligns developers and AI assistants on specifications before code is written.
 
+- [openspec-scaffold](https://github.com/ciliyun007/openspec-scaffold) ![](https://img.shields.io/github/stars/ciliyun007/openspec-scaffold.svg?cacheSeconds=86400) - CLI that writes the four OpenSpec change files (proposal, spec, design, tasks) for you.
+
 - [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg?cacheSeconds=86400) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
 
 - [reqlan](https://github.com/littletuna4/reqlan) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Language for a requirements graph next to the code: named `.rq` ideas, LSP, links to symbols and tests, MCP for agents.
