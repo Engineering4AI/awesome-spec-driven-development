@@ -22,6 +22,8 @@
 
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
+- [Archcore](https://github.com/archcore-ai/plugin) ![](https://img.shields.io/github/stars/archcore-ai/plugin.svg?cacheSeconds=86400) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
+
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
