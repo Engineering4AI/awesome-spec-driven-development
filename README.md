@@ -26,6 +26,8 @@
 
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
+- [DriftWire](https://github.com/Haswell119/driftwire) ![](https://img.shields.io/github/stars/Haswell119/driftwire.svg?cacheSeconds=86400) - CLI that detects API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
+
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
 
 - [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg?cacheSeconds=86400) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
