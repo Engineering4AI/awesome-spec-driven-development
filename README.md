@@ -114,6 +114,8 @@
 
 - [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
 
+- [trailhead](https://github.com/ToRvaLDz/trailhead) ![](https://img.shields.io/github/stars/ToRvaLDz/trailhead.svg?cacheSeconds=86400) - Runs a large project as a map of decision tickets on GitHub Issues, resolved one at a time by a discuss → plan → execute → verify engine with atomic commits, an optional cross-AI plan review, and a throwaway UI prototype step before UI code. Works with Claude Code and Codex; needs only an authenticated gh CLI.
+
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg?cacheSeconds=86400) - Kanban board system for managing spec-driven development workflows.
 
 - [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg?cacheSeconds=86400) - Documentation tool for spec-driven development workflows.
