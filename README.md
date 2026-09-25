@@ -34,6 +34,8 @@
 
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg?cacheSeconds=86400) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
 
+- [MySpec](https://myspec.dev) - Spec-driven development platform compiling guided developer discovery interviews into deterministic 4-file bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with MCP server integration.
+
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg?cacheSeconds=86400) - Aligns developers and AI assistants on specifications before code is written.
 
 - [openspec-scaffold](https://github.com/ciliyun007/openspec-scaffold) ![](https://img.shields.io/github/stars/ciliyun007/openspec-scaffold.svg?cacheSeconds=86400) - CLI that writes the four OpenSpec change files (proposal, spec, design, tasks) for you.
@@ -93,6 +95,8 @@
 - [SpecKit Companion](https://github.com/alfredoperez/speckit-companion) ![](https://img.shields.io/github/stars/alfredoperez/speckit-companion.svg?cacheSeconds=86400) - Spec workspace in VS Code for [Spec Kit](https://github.com/github/spec-kit) runs: specs rendered as structured documents with pull-request-style inline review, a sidebar showing where every feature stands, runs watched live, and the record a finished run leaves behind. A visual pipeline builder makes the workflow itself editable: reorder steps, attach your own, swap document templates, and keep several named workflows per repository.
 
 ## MCP Servers
+
+- [@myspec/mcp-server](https://myspec.dev) - Model Context Protocol server exposing MySpec specification bundles, architecture diagrams, and task trees directly to Cursor, Claude Code, and Windsurf.
 
 - [@reqlan/mcp](https://github.com/littletuna4/reqlan/tree/main/packages/mcp) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Stdio MCP over the same requirement-graph index as the VS Code/Cursor extension and CLI (`npx @reqlan/mcp`).
 
