@@ -30,6 +30,8 @@
 
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
 
+- [Kibi](https://github.com/Looted/kibi) ![](https://img.shields.io/github/stars/Looted/kibi.svg?cacheSeconds=86400) - Keeps requirements connected to code and tests, and checks for missing links as AI agents work.
+
 - [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg?cacheSeconds=86400) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
 
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg?cacheSeconds=86400) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
