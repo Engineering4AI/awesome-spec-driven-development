@@ -108,6 +108,7 @@
 
 ## Workflow Management
 
+- [Aide](https://github.com/ragnarwestad/aide) ![](https://img.shields.io/github/stars/ragnarwestad/aide.svg?cacheSeconds=86400) - Skills for Claude Code, Codex, OpenCode and GitHub Copilot that write each change as a four-file Markdown spec before implementing it test-first, and a local dashboard that queues specs across projects and runs create, analyze, implement and archive headless, merging only once the project's tests pass on the merged result.
 - [GraphCode](https://github.com/scgopi/GraphCode) ![](https://img.shields.io/github/stars/scgopi/GraphCode.svg?cacheSeconds=86400) - Arranges coding-agent sessions into a graph of loops: a goal-based loop ends when its shell predicate exits 0, and hand-off, message, or spawn edges fire unattended.
 
 - [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) [![GitHub stars](https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?cacheSeconds=86400)](https://github.com/OktoLabsAI/okto-pulse) - Local-first SDLC workbench that turns specs into governed sprints, tasks, and validation gates, with a knowledge graph for tracing decisions across an AI coding agent's work.
