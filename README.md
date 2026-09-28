@@ -82,6 +82,8 @@
 
 - [SpecKit Companion pipeline](https://github.com/alfredoperez/speckit-companion/tree/main/speckit-extension) ![](https://img.shields.io/github/stars/alfredoperez/speckit-companion.svg?cacheSeconds=86400) - Configurable layer on top of [Spec Kit](https://github.com/github/spec-kit) rather than a replacement for it. Its commands are assembled from composable nodes, so one config file attaches your own steps at any point, swaps document templates and re-routes the size decision, and a build writes the pipeline you configured. Records each run to plain JSON for live progress and resume, folds small changes onto a shorter path, and keeps optional capability-scoped specs that outlive the feature that created them.
 
+- [SpecWeave](https://github.com/anton-abyzov/specweave) ![](https://img.shields.io/github/stars/anton-abyzov/specweave.svg?cacheSeconds=86400) - Open-source spec-driven CLI that hands a half-finished task between Claude Code, Codex, Grok Build and Gemini CLI through files in git.
+
 - [superpowers](https://github.com/obra/superpowers) ![](https://img.shields.io/github/stars/obra/superpowers.svg?cacheSeconds=86400) - Full software development methodology for coding agents centered on spec approval, planning, and subagent execution.
 
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) ![](https://img.shields.io/github/stars/hellomyoh/throughline.svg?cacheSeconds=86400) - Markdown and git framework where personas debate each spec before code, with an append-only single source of truth that carries decisions across sessions.
