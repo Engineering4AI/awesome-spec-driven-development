@@ -68,6 +68,8 @@
 
 - [colign](https://github.com/colign/colign) ![](https://img.shields.io/github/stars/colign/colign.svg?cacheSeconds=86400) - Collaborative spec-driven development platform for teams to discuss, write, review, and implement specs with AI.
 
+- [Consort](https://github.com/databricks-solutions/consort) ![](https://img.shields.io/github/stars/databricks-solutions/consort.svg?cacheSeconds=86400) - Spec-first, test-driven agent framework from Databricks that builds transactional apps on live Lakebase Postgres branches, with a deterministic orchestrator, human-approval gates, and immutable tests.
+
 - [Cosmosmith](https://github.com/devnomad-byte/cosmosmith) ![](https://img.shields.io/github/stars/devnomad-byte/cosmosmith.svg?cacheSeconds=86400) - Multi-agent workflow initializer that generates AGENTS.md, task.md, proposal/design templates, and adapters for Claude Code, Cursor, Copilot, OpenCode, and Trae.
 
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
