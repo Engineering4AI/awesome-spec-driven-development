@@ -30,6 +30,8 @@
 
 - [gsd-core](https://github.com/open-gsd/gsd-core) ![](https://img.shields.io/github/stars/open-gsd/gsd-core.svg?cacheSeconds=86400) - Light-weight meta-prompting, context engineering, and spec-driven development system for AI coding agents.
 
+- [idea-to-blueprint](https://github.com/iniesohidham/idea-to-blueprint) ![](https://img.shields.io/github/stars/iniesohidham/idea-to-blueprint.svg?cacheSeconds=86400) - Agent skill for Claude Code, Codex and claude.ai that turns a raw idea into one evidence-backed build spec (web-researched stack with pinned versions, epics, Given/When/Then acceptance criteria, tests), then has the agent build one epic per fresh session.
+
 - [intent-verify](https://github.com/hermes-labs-ai/intent-verify) ![](https://img.shields.io/github/stars/hermes-labs-ai/intent-verify.svg?cacheSeconds=86400) - Deterministic, model-free CLI that checks whether a repository still lexically covers the acceptance items in a Markdown spec before human review; a token-overlap signal, not a semantic judgment.
 
 - [Kibi](https://github.com/Looted/kibi) ![](https://img.shields.io/github/stars/Looted/kibi.svg?cacheSeconds=86400) - Keeps requirements connected to code and tests, and checks for missing links as AI agents work.
