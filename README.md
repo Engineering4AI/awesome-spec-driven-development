@@ -24,6 +24,8 @@
 
 - [Archcore](https://github.com/archcore-ai/archcore) ![](https://img.shields.io/github/stars/archcore-ai/archcore.svg?cacheSeconds=86400) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
 
+- [Cage](https://github.com/vitalik1921/cage) ![](https://img.shields.io/github/stars/vitalik1921/cage.svg?cacheSeconds=86400) - Deterministic contract harness for TypeScript that keeps specifications, implementations, tests, and agent review state in sync.
+
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
 - [DriftWire](https://github.com/Haswell119/driftwire) ![](https://img.shields.io/github/stars/Haswell119/driftwire.svg?cacheSeconds=86400) - CLI that detects API contract drift: validate a live API against its OpenAPI spec, or diff two spec versions for breaking changes.
