@@ -12,6 +12,8 @@
 
 - [What Is Spec-Driven Development? A Practitioner's Guide](https://felipefontoura.com/articles/what-is-spec-driven-development) - Practitioner guide to SDD: what a spec is, the four pillars, the EARS format, a full worked spec, and when to skip it.
 
+- [Spec-first development: brainstorm, spec, plan, implement](https://aiarch.dev/workflows/spec-first-development) - Workflow for writing the spec before an agent codes, with the artifact each step produces, common pitfalls, and an as-built example from the author's own repo.
+
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg?cacheSeconds=86400) - Markdown-based specification format for defining AI agent behaviors and capabilities.
