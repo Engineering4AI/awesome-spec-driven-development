@@ -138,6 +138,8 @@
 
 - [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg?cacheSeconds=86400) - Documentation tool for spec-driven development workflows.
 
+- [workkit](https://github.com/ITW-Creative-Works/workkit) ![](https://img.shields.io/github/stars/ITW-Creative-Works/workkit.svg?cacheSeconds=86400) - Claude Code plugin that runs GitHub Issues as a spec-to-ship pipeline: each issue gets an accepted spec in its body before any build, then worker and verifier subagents build and review it for human QA.
+
 - [YYLO](https://github.com/yylo-dev/yylo) ![](https://img.shields.io/github/stars/yylo-dev/yylo.svg?cacheSeconds=86400) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: a dedicated branch/worktree per task, risk-based merge review, and receipt-backed repository changes.
 
 ## Related Lists
