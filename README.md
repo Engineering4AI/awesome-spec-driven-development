@@ -72,6 +72,8 @@
 
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg?cacheSeconds=86400) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
 
+- [BusinessLens](https://github.com/businesslens/pdd) ![](https://img.shields.io/github/stars/businesslens/pdd.svg?cacheSeconds=86400) - Product-driven development framework that keeps intended behavior in a Git-tracked Product Model and gives coding agents skills to ideate, map, and verify it against implementation.
+
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg?cacheSeconds=86400) - Collaborative spec-driven development tool for writing specifications alongside code.
 
 - [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg?cacheSeconds=86400) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
