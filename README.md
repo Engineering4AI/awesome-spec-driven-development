@@ -12,6 +12,8 @@
 
 - [What Is Spec-Driven Development? A Practitioner's Guide](https://felipefontoura.com/articles/what-is-spec-driven-development) - Practitioner guide to SDD: what a spec is, the four pillars, the EARS format, a full worked spec, and when to skip it.
 
+- [Spec-Driven Development: the book](https://github.com/felipefontoura/spec-driven-development-book) - Free open book on SDD with AI agents (EN, pt-BR), with an SDD kit for Claude Code.
+
 - [Spec-first development: brainstorm, spec, plan, implement](https://aiarch.dev/workflows/spec-first-development) - Workflow for writing the spec before an agent codes, with the artifact each step produces, common pitfalls, and an as-built example from the author's own repo.
 
 ## Standards
