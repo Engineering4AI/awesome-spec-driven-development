@@ -56,6 +56,8 @@
 
 - [reqlan](https://github.com/littletuna4/reqlan) ![](https://img.shields.io/github/stars/littletuna4/reqlan.svg?cacheSeconds=86400) - Language for a requirements graph next to the code: named `.rq` ideas, LSP, links to symbols and tests, MCP for agents.
 
+- [Reqode](https://reqode.com) - Connects branch-aware requirements, architecture, code, and tests, with MCP context and Findings for external coding and QA agents.
+
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg?cacheSeconds=86400) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
