@@ -16,6 +16,8 @@
 
 - [What Is Spec-Driven Development? A Practitioner's Guide](https://felipefontoura.com/articles/what-is-spec-driven-development) - Practitioner guide to SDD: what a spec is, the four pillars, the EARS format, a full worked spec, and when to skip it.
 
+- [Internal tool blueprints](https://github.com/samclaassen/internal-tool-blueprints) - 37 worked example specs for internal business tools (data model, numbered rules with worked examples, seed data, phased prompts and acceptance checks), 13 of them build-tested with the spec gaps each build exposed.
+
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg?cacheSeconds=86400) - Markdown-based specification format for defining AI agent behaviors and capabilities.
