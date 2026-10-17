@@ -72,6 +72,8 @@
 
 - [agent-skills](https://github.com/addyosmani/agent-skills) ![](https://img.shields.io/github/stars/addyosmani/agent-skills.svg?cacheSeconds=86400) - Production-grade skill pack for AI coding agents with explicit spec-to-plan-to-build workflows and quality gates.
 
+- [AI Unified Process](https://github.com/AI-Unified-Process/marketplace) ![](https://img.shields.io/github/stars/AI-Unified-Process/marketplace.svg?cacheSeconds=86400) - Requirements-first methodology inspired by the Rational Unified Process, with Skill plugins that go from requirements and use case specs to code and tests with full traceability. See [unifiedprocess.ai](https://unifiedprocess.ai).
+
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg?cacheSeconds=86400) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
 
 - [BusinessLens](https://github.com/businesslens/pdd) ![](https://img.shields.io/github/stars/businesslens/pdd.svg?cacheSeconds=86400) - Product-driven development framework that keeps intended behavior in a Git-tracked Product Model and gives coding agents skills to ideate, map, and verify it against implementation.
