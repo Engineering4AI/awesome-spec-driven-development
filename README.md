@@ -20,6 +20,8 @@
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg?cacheSeconds=86400) - Markdown-based specification format for defining AI agent behaviors and capabilities.
 
+- [ANSS](https://github.com/Kholomyanskiy/anss-standard) [![](https://img.shields.io/github/stars/Kholomyanskiy/anss-standard.svg?cacheSeconds=86400)](https://github.com/Kholomyanskiy/anss-standard) - Open specification standard for AI coding agents: invariants with verifiable checks, agent-first sections, and a spec review before any code is written.
+
 - [FPF](https://github.com/ailev/FPF) ![](https://img.shields.io/github/stars/ailev/FPF.svg?cacheSeconds=86400) - First Principles Framework - Rigorous specification framework for modeling systems, methods, and knowledge with auditable assurance levels and machine-readable patterns.
 
 ## Specification Tools
