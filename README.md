@@ -92,6 +92,8 @@
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
+- [one-man-startup](https://github.com/Fadi88/one-man-startup) ![](https://img.shields.io/github/stars/Fadi88/one-man-startup.svg?cacheSeconds=86400) - GitHub template that gives AI coding agents the roles of a software team: numbered requirements written before building, a Definition of Ready gate, test-first development, independent QA and approval before release.
+
 - [ouroboros](https://github.com/Q00/ouroboros) ![](https://img.shields.io/github/stars/Q00/ouroboros.svg?cacheSeconds=86400) - Local-first Agent OS that wraps Claude Code, Codex CLI, and other coding agents in a replayable Seed → Ledger → Runtime contract, driven by an interview → seed → execute → evaluate → evolve workflow loop.
 
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
