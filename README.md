@@ -80,8 +80,6 @@
 
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg?cacheSeconds=86400) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
 
-- [BusinessLens](https://github.com/businesslens/pdd) ![](https://img.shields.io/github/stars/businesslens/pdd.svg?cacheSeconds=86400) - Product-driven development framework that keeps intended behavior in a Git-tracked Product Model and gives coding agents skills to ideate, map, and verify it against implementation.
-
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg?cacheSeconds=86400) - Collaborative spec-driven development tool for writing specifications alongside code.
 
 - [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg?cacheSeconds=86400) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
@@ -101,6 +99,8 @@
 - [one-man-startup](https://github.com/Fadi88/one-man-startup) ![](https://img.shields.io/github/stars/Fadi88/one-man-startup.svg?cacheSeconds=86400) - GitHub template that gives AI coding agents the roles of a software team: numbered requirements written before building, a Definition of Ready gate, test-first development, independent QA and approval before release.
 
 - [ouroboros](https://github.com/Q00/ouroboros) ![](https://img.shields.io/github/stars/Q00/ouroboros.svg?cacheSeconds=86400) - Local-first Agent OS that wraps Claude Code, Codex CLI, and other coding agents in a replayable Seed → Ledger → Runtime contract, driven by an interview → seed → execute → evaluate → evolve workflow loop.
+
+- [pdd-kit](https://github.com/itai-gendler/pdd-kit) ![](https://img.shields.io/github/stars/itai-gendler/pdd-kit.svg?cacheSeconds=86400) - Product-driven development framework that keeps intended behavior in a Git-tracked Product Model and gives coding agents skills to map, ideate, and verify it against implementation.
 
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
 
