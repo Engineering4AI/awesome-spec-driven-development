@@ -138,7 +138,7 @@
 
 - [Aide](https://github.com/ragnarwestad/aide) ![](https://img.shields.io/github/stars/ragnarwestad/aide.svg?cacheSeconds=86400) - Skills for Claude Code, Codex, OpenCode and GitHub Copilot that write each change as a four-file Markdown spec before implementing it test-first, and a local dashboard that queues specs across projects and runs create, analyze, implement and archive headless, merging only once the project's tests pass on the merged result.
 
-- [Frink](https://github.com/benord-labs/frink) ![](https://img.shields.io/github/stars/benord-labs/frink.svg?cacheSeconds=86400) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+- [Frink](https://github.com/benord-labs/frink) ![](https://img.shields.io/github/stars/benord-labs/frink.svg?cacheSeconds=86400) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.
 
 - [GraphCode](https://github.com/scgopi/GraphCode) ![](https://img.shields.io/github/stars/scgopi/GraphCode.svg?cacheSeconds=86400) - Arranges coding-agent sessions into a graph of loops: a goal-based loop ends when its shell predicate exits 0, and hand-off, message, or spawn edges fire unattended.
 
