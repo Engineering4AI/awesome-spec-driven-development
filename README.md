@@ -166,6 +166,7 @@
 
 ## Related Lists
 
+- [Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents) ![](https://img.shields.io/github/stars/ianwieds/awesome-ai-agents.svg?cacheSeconds=86400) - Curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research, with a coding agents section covering the agents spec-driven workflows run on.
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg?cacheSeconds=86400) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
 
 ## Contributing
