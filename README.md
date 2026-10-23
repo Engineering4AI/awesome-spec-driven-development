@@ -8,6 +8,8 @@
 
 ## Introductions
 
+- [Awesome Agent Workflows](https://github.com/Richicinschi/awesome-agent-workflows) - 41 copy-paste workflow cards for coding agents, from spec-to-plan and task contracts with scope and stop conditions to verification gates and fresh-context review, plus real failure stories with the guardrail each produced.
+
 - [How to write a good spec for AI agents](https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/) - Explores why specifications are becoming the most important skill in the age of AI agents.
 
 - [Internal tool blueprints](https://github.com/samclaassen/internal-tool-blueprints) - 37 worked example specs for internal business tools (data model, numbered rules with worked examples, seed data, phased prompts and acceptance checks), 13 of them build-tested with the spec gaps each build exposed.
