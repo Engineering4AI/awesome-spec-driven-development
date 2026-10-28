@@ -148,6 +148,8 @@
 
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) ![](https://img.shields.io/github/stars/looptroop-ai/LoopTroop.svg?cacheSeconds=86400) - Local, MIT-licensed GUI that turns a ticket into an AI interview, a PRD and small dependency-ordered beads with acceptance criteria, has a council of models draft and vote on the plan, then runs each bead in an isolated OpenCode git worktree with fresh-context retries and human approval gates before the PR.
 
+- [Nogging](https://github.com/JoMe92/nogging) ![](https://img.shields.io/github/stars/JoMe92/nogging.svg?cacheSeconds=86400) - Linux CLI that runs Claude Code, Codex and Pi as a role-bounded team: a Planning Agent writes approved OpenSpec plans, a Lead Agent executes them as Beads tasks with Git evidence, and a deterministic sync mirrors that evidence back into the plan.
+
 - [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) [![GitHub stars](https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?cacheSeconds=86400)](https://github.com/OktoLabsAI/okto-pulse) - Local-first SDLC workbench that turns specs into governed sprints, tasks, and validation gates, with a knowledge graph for tracing decisions across an AI coding agent's work.
 
 - [Plans](https://github.com/yrangana/Plans) ![](https://img.shields.io/github/stars/yrangana/Plans.svg?cacheSeconds=86400) - Markdown convention for tracking multi-feature work with per-feature specs, a status front door, and a static roadmap dashboard.
