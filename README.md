@@ -135,6 +135,7 @@
 - [agent-qa](https://github.com/vostride/agent-qa) ![](https://img.shields.io/github/stars/vostride/agent-qa.svg?cacheSeconds=86400) - Author and run natural-language acceptance tests for web and mobile, with advanced memidex memory and self-improvement.
 
 - [compendio-mcp](https://github.com/RuloGB/compendio-mcp) ![](https://img.shields.io/github/stars/RuloGB/compendio-mcp.svg?cacheSeconds=86400) - Local hybrid search over a project's spec and doc markdown, so agents read the right section instead of grepping the whole corpus.
+- [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) ![](https://img.shields.io/github/stars/mybolide/mcp-probe-kit.svg?cacheSeconds=86400) - Spec-driven workflow MCP for coding agents: `start_feature` / `start_bugfix` / `start_ui` orchestrate requirements → spec → implementation → test → review, plans resume across sessions, and a converge gate blocks closure until spec, test and review evidence exist.
 
 - [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg?cacheSeconds=86400) - MCP server providing structured prompts for requirements, design documents, and code generation.
 
