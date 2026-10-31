@@ -106,6 +106,8 @@
 
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
 
+- [SDD](https://github.com/fpapleux/sdd-skill) ![](https://img.shields.io/github/stars/fpapleux/sdd-skill.svg?cacheSeconds=86400) - Spec-driven development skill for Claude Code and Codex with operator approval gates, test-first evidence, and living specifications.
+
 - [skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills.svg?cacheSeconds=86400) - Composable engineering skills including PRD/spec, planning, TDD, and architecture workflows for AI-assisted development.
 
 - [SpecKit Companion pipeline](https://github.com/alfredoperez/speckit-companion/tree/main/speckit-extension) ![](https://img.shields.io/github/stars/alfredoperez/speckit-companion.svg?cacheSeconds=86400) - Configurable layer on top of [Spec Kit](https://github.com/github/spec-kit) rather than a replacement for it. Its commands are assembled from composable nodes, so one config file attaches your own steps at any point, swaps document templates and re-routes the size decision, and a build writes the pipeline you configured. Records each run to plain JSON for live progress and resume, folds small changes onto a shorter path, and keeps optional capability-scoped specs that outlive the feature that created them.
