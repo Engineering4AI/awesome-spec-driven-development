@@ -36,7 +36,9 @@
 
 - [Cage](https://github.com/vitalik1921/cage) ![](https://img.shields.io/github/stars/vitalik1921/cage.svg?cacheSeconds=86400) - Deterministic contract harness for TypeScript that keeps specifications, implementations, tests, and agent review state in sync.
 
-- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) ![](https://img.shields.io/github/stars/jangtrinh/design-os-studio.svg?cacheSeconds=86400) - Free, source-available (PolyForm Shield) interface design tool in Rust where coding agents write declarative `NodeSpec` JSON screen specs and apply them with `--apply-spec`, so the layout is computed by Auto-Layout from the spec instead of guessed pixel coordinates; works with Figma `.fig` files.
+- [Cascade V3](https://github.com/nodaysidle/nodaysidle-cascade-v3) ![](https://img.shields.io/github/stars/nodaysidle/nodaysidle-cascade-v3.svg?cacheSeconds=86400) - Compiles a software idea into five locked markdown contracts (PRD, ARD, TRD, TASKS, AGENTS) with stable IDs.
+
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) ![](https://img.shields.io/github/stars/jangtrinh/design-os-studio.svg?cacheSeconds=86400) - Free, source-available (PolyForm Shield) interface design tool in Rust where coding agents write declarative `NodeSpec` JSON screen specs and apply them with `--apply-spec`.
 
 - [dotdog](https://github.com/specdog/dotdog) ![](https://img.shields.io/github/stars/specdog/dotdog.svg?cacheSeconds=86400) - CLI tool for structured software specs. Write .dog files, compile to .dag graphs, query via MCP. Validate completeness, detect drift. 94% token savings.
 
