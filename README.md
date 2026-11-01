@@ -116,6 +116,8 @@
 
 - [SpecKit Companion pipeline](https://github.com/alfredoperez/speckit-companion/tree/main/speckit-extension) ![](https://img.shields.io/github/stars/alfredoperez/speckit-companion.svg?cacheSeconds=86400) - Configurable layer on top of [Spec Kit](https://github.com/github/spec-kit) rather than a replacement for it. Its commands are assembled from composable nodes, so one config file attaches your own steps at any point, swaps document templates and re-routes the size decision, and a build writes the pipeline you configured. Records each run to plain JSON for live progress and resume, folds small changes onto a shorter path, and keeps optional capability-scoped specs that outlive the feature that created them.
 
+- [spectoflow](https://github.com/georgesmomo/spectoflow) ![](https://img.shields.io/github/stars/georgesmomo/spectoflow.svg?cacheSeconds=86400) - Agent-agnostic, zero-dependency npm framework for spec-driven development with a real-time local dashboard; works with Claude Code, Codex, Cursor, Gemini CLI, Copilot CLI and Kiro.
+
 - [SpecWeave](https://github.com/anton-abyzov/specweave) ![](https://img.shields.io/github/stars/anton-abyzov/specweave.svg?cacheSeconds=86400) - Open-source spec-driven CLI that hands a half-finished task between Claude Code, Codex, Grok Build and Gemini CLI through files in git.
 
 - [superpowers](https://github.com/obra/superpowers) ![](https://img.shields.io/github/stars/obra/superpowers.svg?cacheSeconds=86400) - Full software development methodology for coding agents centered on spec approval, planning, and subagent execution.
