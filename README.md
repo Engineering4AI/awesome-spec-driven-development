@@ -100,6 +100,8 @@
 
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
+- [main-spex](https://github.com/foreachpartners/main-spex) ![](https://img.shields.io/github/stars/foreachpartners/main-spex.svg?cacheSeconds=86400) - AI-first framework that turns specifications into verified code: plain YAML specs with acceptance criteria, agent skills for a PRD → spec → contract → implement → review → test workflow, and `spex check` / `spex coverage` commands that trace every criterion to its contract, code, and test.
+
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
 - [one-man-startup](https://github.com/Fadi88/one-man-startup) ![](https://img.shields.io/github/stars/Fadi88/one-man-startup.svg?cacheSeconds=86400) - GitHub template that gives AI coding agents the roles of a software team: numbered requirements written before building, a Definition of Ready gate, test-first development, independent QA and approval before release.
