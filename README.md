@@ -100,7 +100,7 @@
 
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
-- [main-spex](https://github.com/foreachpartners/main-spex) ![](https://img.shields.io/github/stars/foreachpartners/main-spex.svg?cacheSeconds=86400) - AI-first framework that turns specifications into verified code: plain YAML specs with acceptance criteria, agent skills for a PRD → spec → contract → implement → review → test workflow, and `spex check` / `spex coverage` commands that trace every criterion to its contract, code, and test.
+- [Main spex](https://github.com/foreachpartners/main-spex) ![](https://img.shields.io/github/stars/foreachpartners/main-spex.svg?cacheSeconds=86400) - AI-first framework that turns specifications into verified code: plain YAML specs with acceptance criteria, agent skills for a PRD → spec → contract → implement → review → test workflow, and `spex check` / `spex coverage` commands that trace every criterion to its contract, code, and test.
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
