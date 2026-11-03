@@ -112,6 +112,8 @@
 
 - [pi-sdd-kit](https://github.com/felipefontoura/pi-sdd-kit) ![](https://img.shields.io/github/stars/felipefontoura/pi-sdd-kit.svg?cacheSeconds=86400) - Spec-driven skill pack for the Pi coding agent, with a gated PRD/spec/tasks/review pipeline, steering docs as durable memory, .status approval gates, and EARS requirements.
 
+- [Ponder](https://github.com/Quinnod345/ponder) ![](https://img.shields.io/github/stars/Quinnod345/ponder.svg?cacheSeconds=86400) - Zero-dependency Node.js CLI and Agent Skill that gates specs, plans, and diffs on a 7-step multi-role deliberation state machine (`skeptic`, `builder`, `dreamer`, `empath`), 1.00 unit coverage, convergence checks, and an append-only JSONL review ledger.
+
 - [SDD](https://github.com/fpapleux/sdd-skill) ![](https://img.shields.io/github/stars/fpapleux/sdd-skill.svg?cacheSeconds=86400) - Spec-driven development skill for Claude Code and Codex with operator approval gates, test-first evidence, and living specifications.
 
 - [skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills.svg?cacheSeconds=86400) - Composable engineering skills including PRD/spec, planning, TDD, and architecture workflows for AI-assisted development.
