@@ -126,6 +126,8 @@
 
 ## IDE & Editor Integrations
 
+- [Frame](https://github.com/kaanozhan/Frame) ![](https://img.shields.io/github/stars/kaanozhan/Frame.svg?cacheSeconds=86400) - Desktop agentic development environment for Claude Code and Codex CLI with a built-in spec → plan → tasks → implement workflow, where each spec records an `outcome.md` of what actually shipped and becomes durable, git-versioned project context for future agent sessions.
+
 - [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg?cacheSeconds=86400) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
 
 - [Notula](https://github.com/anetrebskii/notula-releases) ![](https://img.shields.io/github/stars/anetrebskii/notula-releases.svg?cacheSeconds=86400) - WYSIWYG editor for the Markdown specs in a git repository, with review threads committed beside the documents rather than written into them, and a comment addressed to `@ai` answered by the coding agent in the thread.
