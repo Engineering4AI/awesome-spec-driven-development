@@ -118,6 +118,8 @@
 
 - [SpecWeave](https://github.com/anton-abyzov/specweave) ![](https://img.shields.io/github/stars/anton-abyzov/specweave.svg?cacheSeconds=86400) - Open-source spec-driven CLI that hands a half-finished task between Claude Code, Codex, Grok Build and Gemini CLI through files in git.
 
+- [Specwright](https://github.com/sh1ny/specwright) ![](https://img.shields.io/github/stars/sh1ny/specwright.svg?cacheSeconds=86400) - Custom [OpenSpec](https://github.com/Fission-AI/OpenSpec) schema and skills for Claude Code, Codex and OMP that scale architecture reasoning to the change, gate designs and finished changes behind a cross-model review, map every requirement to a red-to-green test, record ADRs, and run a branch-per-change git and GitHub PR workflow up to milestone roadmaps.
+
 - [superpowers](https://github.com/obra/superpowers) ![](https://img.shields.io/github/stars/obra/superpowers.svg?cacheSeconds=86400) - Full software development methodology for coding agents centered on spec approval, planning, and subagent execution.
 
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) ![](https://img.shields.io/github/stars/hellomyoh/throughline.svg?cacheSeconds=86400) - Markdown and git framework where personas debate each spec before code, with an append-only single source of truth that carries decisions across sessions.
