@@ -136,6 +136,8 @@
 
 - [Notula](https://github.com/anetrebskii/notula-releases) ![](https://img.shields.io/github/stars/anetrebskii/notula-releases.svg?cacheSeconds=86400) - WYSIWYG editor for the Markdown specs in a git repository, with review threads committed beside the documents rather than written into them, and a comment addressed to `@ai` answered by the coding agent in the thread.
 
+- [Skim](https://github.com/skim-md/skim) ![](https://img.shields.io/github/stars/skim-md/skim.svg?cacheSeconds=86400) - Browser extension for reading the Markdown specs and plans coding agents write, re-rendering live while the agent edits the file.
+
 - [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg?cacheSeconds=86400) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
 
 - [SpecKit Companion](https://github.com/alfredoperez/speckit-companion) ![](https://img.shields.io/github/stars/alfredoperez/speckit-companion.svg?cacheSeconds=86400) - Spec workspace in VS Code for [Spec Kit](https://github.com/github/spec-kit) runs: specs rendered as structured documents with pull-request-style inline review, a sidebar showing where every feature stands, runs watched live, and the record a finished run leaves behind. A visual pipeline builder makes the workflow itself editable: reorder steps, attach your own, swap document templates, and keep several named workflows per repository.
