@@ -176,6 +176,8 @@
 
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
 
+- [SpecWithCode](https://github.com/anton-abyzov/specwithcode) ![](https://img.shields.io/github/stars/anton-abyzov/specwithcode.svg?cacheSeconds=86400) - Free, source-available desktop app that runs Claude Code, Codex, Copilot, Grok, Cursor, OpenCode and Gemini CLI side by side; a coordinator splits a goal into tasks for workers on different providers, and specs, tasks and handoffs live in git through SpecWeave.
+
 - [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
 
 - [trailhead](https://github.com/ToRvaLDz/trailhead) ![](https://img.shields.io/github/stars/ToRvaLDz/trailhead.svg?cacheSeconds=86400) - Runs a large project as a map of decision tickets on GitHub Issues, resolved one at a time by a discuss → plan → execute → verify engine with atomic commits, an optional cross-AI plan review, and a throwaway UI prototype step before UI code. Works with Claude Code and Codex; needs only an authenticated gh CLI.
