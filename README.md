@@ -52,6 +52,8 @@
 
 - [Kibi](https://github.com/Looted/kibi) ![](https://img.shields.io/github/stars/Looted/kibi.svg?cacheSeconds=86400) - Keeps requirements connected to code and tests, and checks for missing links as AI agents work.
 
+- [Kokoro OS Tools](https://github.com/xmichinokux/kokoro-os-tools) ![](https://img.shields.io/github/stars/xmichinokux/kokoro-os-tools.svg?cacheSeconds=86400) - npx CLI tools that turn an idea into kokoro-spec.md by asking multiple-choice questions about what is still undecided (kokoro-baton), then check the built app without AI and produce a hand-check table from the spec (kokoro-aegis). Works with Claude Code or another coding agent; uses the user's own Anthropic key.
+
 - [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg?cacheSeconds=86400) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
 
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg?cacheSeconds=86400) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
