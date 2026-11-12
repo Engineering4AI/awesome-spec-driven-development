@@ -152,6 +152,8 @@
 
 - [compendio-mcp](https://github.com/RuloGB/compendio-mcp) ![](https://img.shields.io/github/stars/RuloGB/compendio-mcp.svg?cacheSeconds=86400) - Local hybrid search over a project's spec and doc markdown, so agents read the right section instead of grepping the whole corpus.
 
+- [Entalpa MCP](https://github.com/entalpa/entalpa-mcp) ![](https://img.shields.io/github/stars/entalpa/entalpa-mcp.svg?cacheSeconds=86400) - Hosted spec-driven development platform for AI coding agents: drafts stakeholders, user stories and requirements with acceptance criteria from a short description, raises open questions before the build, keeps the spec versioned and traced to code and tests, and serves it over MCP to any coding agent, such as Claude Code, Cursor or Codex.
+
 - [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) ![](https://img.shields.io/github/stars/mybolide/mcp-probe-kit.svg?cacheSeconds=86400) - Spec-driven workflow MCP for coding agents: `start_feature` / `start_bugfix` / `start_ui` orchestrate requirements → spec → implementation → test → review, plans resume across sessions, and a converge gate blocks closure until spec, test and review evidence exist.
 
 - [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg?cacheSeconds=86400) - MCP server providing structured prompts for requirements, design documents, and code generation.
