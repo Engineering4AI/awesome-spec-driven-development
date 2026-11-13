@@ -166,6 +166,8 @@
 
 - [GraphCode](https://github.com/scgopi/GraphCode) ![](https://img.shields.io/github/stars/scgopi/GraphCode.svg?cacheSeconds=86400) - Arranges coding-agent sessions into a graph of loops: a goal-based loop ends when its shell predicate exits 0, and hand-off, message, or spawn edges fire unattended.
 
+- [Kraft](https://github.com/itsOmidKarami/kraft) ![](https://img.shields.io/github/stars/itsOmidKarami/kraft.svg?cacheSeconds=86400) - Local orchestrator that has a coding agent write a spec and then a plan, stops for a person to approve each, builds the change in its own git worktree and opens a pull request for a final review. Steps run in order from a YAML chain file. Claude Code by default; Codex, Cursor, Gemini CLI, OpenCode, Amp and Antigravity can run steps. Apache-2.0.
+
 - [LoopTroop](https://github.com/looptroop-ai/LoopTroop) ![](https://img.shields.io/github/stars/looptroop-ai/LoopTroop.svg?cacheSeconds=86400) - Local, MIT-licensed GUI that turns a ticket into an AI interview, a PRD and small dependency-ordered beads with acceptance criteria, has a council of models draft and vote on the plan, then runs each bead in an isolated OpenCode git worktree with fresh-context retries and human approval gates before the PR.
 
 - [Nogging](https://github.com/JoMe92/nogging) ![](https://img.shields.io/github/stars/JoMe92/nogging.svg?cacheSeconds=86400) - Linux CLI that runs Claude Code, Codex and Pi as a role-bounded team: a Planning Agent writes approved OpenSpec plans, a Lead Agent executes them as Beads tasks with Git evidence, and a deterministic sync mirrors that evidence back into the plan.
