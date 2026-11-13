@@ -18,6 +18,8 @@
 
 - [Spec-first development: brainstorm, spec, plan, implement](https://aiarch.dev/workflows/spec-first-development) - Workflow for writing the spec before an agent codes, with the artifact each step produces, common pitfalls, and an as-built example from the author's own repo.
 
+- [The ticket is the thinking](https://waldo.vanderlore.de/blog/spec-driven-development/) - Practitioner post on treating every task, bug and finding as a spec, so a kanban board becomes a knowledge system that compounds.
+
 - [What Is Spec-Driven Development? A Practitioner's Guide](https://felipefontoura.com/articles/what-is-spec-driven-development) - Practitioner guide to SDD: what a spec is, the four pillars, the EARS format, a full worked spec, and when to skip it.
 
 ## Standards
