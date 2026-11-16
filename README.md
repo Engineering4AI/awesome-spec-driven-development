@@ -172,6 +172,8 @@
 
 - [Okto Pulse](https://github.com/OktoLabsAI/okto-pulse) [![GitHub stars](https://img.shields.io/github/stars/OktoLabsAI/okto-pulse?cacheSeconds=86400)](https://github.com/OktoLabsAI/okto-pulse) - Local-first SDLC workbench that turns specs into governed sprints, tasks, and validation gates, with a knowledge graph for tracing decisions across an AI coding agent's work.
 
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) ![](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator.svg?cacheSeconds=86400) - Open-source (Apache-2.0) desktop app where an orchestrator agent breaks a task into pieces, runs each with Claude Code, Codex or 35+ other agents in its own git worktree, and follows every PR through CI, review and merge.
+
 - [Plans](https://github.com/yrangana/Plans) ![](https://img.shields.io/github/stars/yrangana/Plans.svg?cacheSeconds=86400) - Markdown convention for tracking multi-feature work with per-feature specs, a status front door, and a static roadmap dashboard.
 
 - [RailWarden](https://github.com/advaith-1212/railwarden) ![](https://img.shields.io/github/stars/advaith-1212/railwarden.svg?cacheSeconds=86400) - Deterministic execution and integration control plane for approved multi-agent work: turns plans into dependency-aware isolated work packages, records validation evidence, and gates integration.
