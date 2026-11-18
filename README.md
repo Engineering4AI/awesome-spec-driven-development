@@ -78,6 +78,8 @@
 
 - [Speclr](https://speclr.dev) - AI-guided discovery that takes a team from a vague product idea to BDD specs (Gherkin) that developers and coding agents can build from, in a shared multi-user workspace.
 
+- [Spekkr](https://spekkr.com) - Public registry of reusable specs AI agents can build from. Each spec includes requirements, design notes and tasks; agents search, pull and publish over MCP.
+
 - [Squelette](https://github.com/JyMinet/squelette) - Repository-level governance for coding agents: work items declare the file paths they may touch, a pre-commit gate refuses anything outside them, human decisions are recorded in the repo, and a task cannot close without evidence verified against its artifacts.
 
 - [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ![](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template.svg?cacheSeconds=86400) - Staged prompts and a CLI that produce a PRD, a technical design, and AGENTS.md before implementation begins.
