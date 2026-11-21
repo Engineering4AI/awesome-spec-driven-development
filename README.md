@@ -190,6 +190,8 @@
 
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
 
+- [Taskhold](https://taskhold.com/?ref=awesome-spec-driven-development) - Hosted task list shared by you and your coding agents over MCP: agents plan each task in steps, report live progress and block with a question when they need you, so the task layer of a spec-driven flow stays visible on one live board.
+
 - [taskmaster](https://github.com/eyaltoledano/claude-task-master) ![](https://img.shields.io/github/stars/eyaltoledano/claude-task-master.svg?cacheSeconds=86400) - Task management system for AI-driven development that parses PRDs and orchestrates implementation workflows.
 
 - [trailhead](https://github.com/ToRvaLDz/trailhead) ![](https://img.shields.io/github/stars/ToRvaLDz/trailhead.svg?cacheSeconds=86400) - Runs a large project as a map of decision tickets on GitHub Issues, resolved one at a time by a discuss → plan → execute → verify engine with atomic commits, an optional cross-AI plan review, and a throwaway UI prototype step before UI code. Works with Claude Code and Codex; needs only an authenticated gh CLI.
