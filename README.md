@@ -14,6 +14,8 @@
 
 - [Internal tool blueprints](https://github.com/samclaassen/internal-tool-blueprints) - 37 worked example specs for internal business tools (data model, numbered rules with worked examples, seed data, phased prompts and acceptance checks), 13 of them build-tested with the spec gaps each build exposed.
 
+- [Requirement coverage vs test coverage](https://postcodeengineering.com/requirement-coverage/) - Why test coverage misses unimplemented acceptance criteria, and how to measure requirement coverage deterministically without an LLM. (Chinese)
+
 - [Spec-Driven Development: the book](https://github.com/felipefontoura/spec-driven-development-book) - Free open book on SDD with AI agents (EN, pt-BR), with an SDD kit for Claude Code.
 
 - [Spec-first development: brainstorm, spec, plan, implement](https://aiarch.dev/workflows/spec-first-development) - Workflow for writing the spec before an agent codes, with the artifact each step produces, common pitfalls, and an as-built example from the author's own repo.
