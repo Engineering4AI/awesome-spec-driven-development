@@ -202,6 +202,8 @@
 
 - [workkit](https://github.com/ITW-Creative-Works/workkit) ![](https://img.shields.io/github/stars/ITW-Creative-Works/workkit.svg?cacheSeconds=86400) - Claude Code plugin that runs GitHub Issues as a spec-to-ship pipeline: each issue gets an accepted spec in its body before any build, then worker and verifier subagents build and review it for human QA.
 
+- [WorkLedger](https://workledger-ai.com/?ref=awesome-spec-driven-development) - Hosted record for spec-driven work with coding agents over MCP: it refuses to start an agent's work session until the project has an approved specification, records the spec version each session ran against, and keeps work items, decisions only a person can answer, review states and delivery evidence on one shared record.
+
 - [YYLO](https://github.com/yylo-dev/yylo) ![](https://img.shields.io/github/stars/yylo-dev/yylo.svg?cacheSeconds=86400) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries: a dedicated branch/worktree per task, risk-based merge review, and receipt-backed repository changes.
 
 ## Related Lists
