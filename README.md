@@ -32,6 +32,8 @@
 
 ## Specification Tools
 
+- [100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill) ![](https://img.shields.io/github/stars/DeadInternetStudios/100x-engineer-skill.svg?cacheSeconds=86400) - Spec-driven development for Claude Code, Cursor and Codex: agents write requirements and formal properties before coding, check them with a CLI, and record verification evidence before reporting completion.
+
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
 - [Archcore](https://github.com/archcore-ai/archcore) ![](https://img.shields.io/github/stars/archcore-ai/archcore.svg?cacheSeconds=86400) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
