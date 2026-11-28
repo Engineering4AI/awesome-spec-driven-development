@@ -72,6 +72,8 @@
 
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg?cacheSeconds=86400) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
+- [SignalsAI](https://orgsignals.com/?ref=awesome-spec-driven-development) - Shared workspace where product, engineering, QA and an AI agent turn an idea into recorded decisions, a PRD, specs and units behind human approval gates, then hand that approved context to each developer's own coding agent (Claude Code, Cursor, Codex) and review the PR against it. Implements the open AI-DLC methodology.
+
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
 - [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
